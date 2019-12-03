@@ -1,0 +1,4 @@
+Implemented using Python Selenium web driver for Raspberry, Linux and Windows by running router's web-interface in Firefox 
+(with headless mode in general non-debug run).
+
+http://www.knight-of-pi.org/python3-browser-tests-on-a-raspberry-pi-with-firefox-virtualdisplay-selenium-and-pytest/
